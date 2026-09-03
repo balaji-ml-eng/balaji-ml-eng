@@ -12,7 +12,7 @@
 
 #### 💡 What drives me
 
-> I started with a simple question: *"Can a machine hear and understand like a human?"* That curiosity led me from speech recognition to building full-stack AI systems that work across images, video, audio, and 3D data. Every project I build tries to bridge the gap between raw data and real intelligence.
+> I started with a simple question: *"Can a machine hear and understand like a human?"* That curiosity led me from speech recognition to building full-stack AI systems that work across **images, video, audio, and 3D data**. When I say **multimodal**, I mean it — I don't just specialize in one domain. I work across **computer vision, speech processing, LiDAR point clouds, geospatial analysis, and generative AI**. Each area is a different puzzle, and I love solving all of them. Every project I build tries to bridge the gap between raw data and real intelligence.
 
 </div>
 
@@ -153,14 +153,17 @@ When I'm not training models, you'll find me exploring **satellite imagery with 
 ![YOLO](https://img.shields.io/badge/YOLO-v5%2Fv8-00FFFF?style=for-the-badge)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-137CBD?style=for-the-badge&logo=google&logoColor=white)
 ![SAM](https://img.shields.io/badge/SAM-0096D6?style=for-the-badge&logo=openai&logoColor=white)
-![LiDAR](https://img.shields.io/badge/LiDAR-00C853?style=for-the-badge)
-![GDAL](https://img.shields.io/badge/GDAL-0096D6?style=for-the-badge)
-![Point+Cloud](https://img.shields.io/badge/Point%20Cloud-9C27B0?style=for-the-badge)
+![Open3D](https://img.shields.io/badge/Open3D-0078D4?style=for-the-badge)
+![PyVista](https://img.shields.io/badge/PyVista-0096D6?style=for-the-badge)
 
-### 🌍 Geospatial & Satellite
+### 🌍 LiDAR, Point Cloud & Geospatial
+![LiDAR](https://img.shields.io/badge/LiDAR-00C853?style=for-the-badge)
+![Point+Cloud](https://img.shields.io/badge/Point%20Cloud-9C27B0?style=for-the-badge)
+![GDAL](https://img.shields.io/badge/GDAL-0096D6?style=for-the-badge)
 ![lazpy](https://img.shields.io/badge/lazpy-FF6F00?style=for-the-badge)
-![Satellite+Imagery](https://img.shields.io/badge/Satellite%20Imagery-4CAF50?style=for-the-badge)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-0096D6?style=for-the-badge)
+![Satellite+Imagery](https://img.shields.io/badge/Satellite%20Imagery-4CAF50?style=for-the-badge)
+![3D+Rendering](https://img.shields.io/badge/Optimized%203D%20Rendering-FF5722?style=for-the-badge)
 
 ### 💻 Languages & Frameworks
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
@@ -281,9 +284,11 @@ When I'm not training models, you'll find me exploring **satellite imagery with 
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 LiDAR, Geospatial & 3D Point Cloud
+### 🌍 LiDAR, Point Cloud & Geospatial
 - LiDAR Data Processing (lazpy, LAS/LAZ)
 - Point Cloud Classification & Segmentation
+- Open3D & PyVista for 3D Visualization
+- Optimized Point Cloud Data Rendering
 - GDAL / GeoPandas Spatial Analysis
 - SAM for Satellite Imagery Segmentation
 - 3D Terrain Modeling & Reconstruction
