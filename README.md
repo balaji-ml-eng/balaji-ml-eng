@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- <img src="https://your-banner-url.com/banner.png" width="100%" /> -->
-
-<img src="https://raw.githubusercontent.com/Davidbala2004/Davidbala2004/main/profile-banner.png" width="100%" alt="Profile Banner"/>
-
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Multimodal+Systems;Building+Intelligent+Vision+%26+Audio+Models;Specializing+in+Image%2C+Video+%26+3D+AI;Speech+Recognition+%26+Synthesis+Expert" alt="Typing SVG" />
@@ -11,14 +7,14 @@
 
 <br/>
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Davidbala2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-<br/>
-
-<!-- Status Badges -->
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/Domain-AI%20%2F%20ML-76b900?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+<!-- Visitor Counter + Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Davidbala2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge" alt="Open to Work"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Domain-AI%20%2F%20ML-76b900?style=for-the-badge" alt="AI/ML"/>
+</p>
 
 </div>
 
@@ -30,8 +26,8 @@
 
 - 🔭 **Currently working on:** Multimodal AI systems combining vision, audio, and 3D understanding
 - 🌱 **Exploring:** Advanced transformer architectures for real-time multimodal inference
-- 🎯 **Specialization:** Computer Vision · Speech Processing · 3D Reconstruction · Generative AI
-- 💬 **Ask me about:** YOLO, OpenCV, Whisper, VOSK, 3D Object Detection, Video Analysis, and Speech Models
+- 🎯 **Specialization:** Computer Vision · Speech Processing · LiDAR & Point Cloud · 3D Reconstruction · Geospatial AI · Generative AI
+- 💬 **Ask me about:** YOLO, OpenCV, Whisper, VOSK, LiDAR, GDAL, SAM, Point Cloud Processing, Satellite Imagery, 3D Object Detection
 - 📍 **Based in:** India 🇮🇳
 - 📫 **Reach me at:** [balaji2004kamal@gmail.com](mailto:balaji2004kamal@gmail.com)
 
@@ -54,14 +50,21 @@
 ### 🗣️ Speech & Audio AI
 ![Whisper](https://img.shields.io/badge/OpenAI%20Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![VOSK](https://img.shields.io/badge/VOSK-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-![TTS](https://img.shields.io/badge/TTS%2FSTT-e91e63?style=for-the-badge&logo=microphone&logoColor=white)
+![TTS/STT](https://img.shields.io/badge/TTS%2FSTT-e91e63?style=for-the-badge&logo=microphone&logoColor=white)
 ![Wav2Vec](https://img.shields.io/badge/Wav2Vec2.0-0096D6?style=for-the-badge)
 
 ### 🖼️ Vision & 3D AI
-![YOLO](https://img.shields.io/badge/YOLO-v5%2Fv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-v5%2Fv8-00FFFF?style=for-the-badge)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-137CBD?style=for-the-badge&logo=google&logoColor=white)
-![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
-![Blender](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
+![SAM](https://img.shields.io/badge/SAM-0096D6?style=for-the-badge&logo=openai&logoColor=white)
+![LiDAR](https://img.shields.io/badge/LiDAR-00C853?style=for-the-badge)
+![GDAL](https://img.shields.io/badge/GDAL-0096D6?style=for-the-badge)
+![Point+Cloud](https://img.shields.io/badge/Point%20Cloud-9C27B0?style=for-the-badge)
+
+### 🌍 Geospatial & Satellite
+![lazpy](https://img.shields.io/badge/lazpy-FF6F00?style=for-the-badge)
+![Satellite+Imagery](https://img.shields.io/badge/Satellite%20Imagery-4CAF50?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0096D6?style=for-the-badge)
 
 ### 💻 Languages & Frameworks
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
@@ -90,24 +93,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Davidbala2004/SLP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidbala2004&repo=SLP&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Davidbala2004/text2speech">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidbala2004&repo=text2speech&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Davidbala2004/Pronunciation_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidbala2004&repo=Pronunciation_project&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Davidbala2004/Aihealthcare-Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidbala2004&repo=Aihealthcare-Bot&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Davidbala2004/Forex-Predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidbala2004&repo=Forex-Predictor&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Davidbala2004/Final-device-based-STT_TTS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Davidbala2004&repo=Final-device-based-STT_TTS&theme=tokyonight&hide_border=true" />
-</a>
+[![SLP](https://img.shields.io/badge/SLP-Speech%20Language%20Processing-1e88e5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Davidbala2004/SLP)
+[![text2speech](https://img.shields.io/badge/text2speech-TTS%20Synthesis-e91e63?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Davidbala2004/text2speech)
+[![Pronunciation](https://img.shields.io/badge/Pronunciation%20Project-AI%20Assessment-ff9800?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Davidbala2004/Pronunciation_project)
+[![Healthcare Bot](https://img.shields.io/badge/Aihealthcare--Bot-NLP%20Healthcare-4caf50?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Davidbala2004/Aihealthcare-Bot)
+[![Forex Predictor](https://img.shields.io/badge/Forex--Predictor-ML%20Prediction-9c27b0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Davidbala2004/Forex-Predictor)
+[![STT/TTS](https://img.shields.io/badge/Final--device--based--STT__TTS-Speech%20Recognition-00bcd4?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Davidbala2004/Final-device-based-STT_TTS)
 
 </div>
 
@@ -179,22 +170,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Generative AI & LLMs
-- Transformer Architectures
-- Fine-tuning Foundation Models
-- Prompt Engineering
-- RAG Pipelines
-- Multimodal Understanding
+### 🌍 LiDAR, Geospatial & 3D Point Cloud
+- LiDAR Data Processing (lazpy, LAS/LAZ)
+- Point Cloud Classification & Segmentation
+- GDAL / GeoPandas Spatial Analysis
+- SAM for Satellite Imagery Segmentation
+- 3D Terrain Modeling & Reconstruction
+- Remote Sensing & Satellite Image Analysis
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 ML Engineering
+### 🧠 Generative AI & ML Engineering
+- Transformer Architectures & LLMs
+- Fine-tuning Foundation Models
+- RAG Pipelines & Prompt Engineering
 - Model Optimization & Quantization
 - MLOps & Deployment (Docker)
-- Data Pipeline Design
-- Feature Engineering
-- A/B Testing & Evaluation
+- Feature Engineering & A/B Testing
 
 </td>
 </tr>
@@ -209,15 +202,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji04/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balaji2004kamal@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davidbala2004)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/balaji717821i108l/)
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<!-- <img src="https://raw.githubusercontent.com/Davidbala2004/Davidbala2004/output/github-contribution-grid-snake.svg" width="100%" /> -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58A6FF,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=16&fontColor=58A6FF&animation=fadeIn)
 
