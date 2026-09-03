@@ -40,53 +40,26 @@
 
 ## 🧠 About Me
 
-```python
-class BalajiK(AI_Engineer):
-    """
-    🚀 AI/ML Engineer | Multimodal Systems | Speech & Vision
-    """
-    
-    def __init__(self):
-        self.name       = "Balaji K"
-        self.role       = "AI/ML Engineer"
-        self.location   = "India 🇮🇳"
-        self.email      = "balaji2004kamal@gmail.com"
-        self.linkedin   = "linkedin.com/in/balaji04"
-    
-    def specializations(self):
-        return [
-            "🧠 Computer Vision & Object Detection",
-            "🗣️ Speech Recognition & Synthesis",
-            "🌍 LiDAR, Point Cloud & Geospatial AI",
-            "🖼️ Video Analysis & 3D Reconstruction",
-            "🤖 Generative AI, LLMs & RAG",
-            "📡 Satellite Imagery with SAM"
-        ]
-    
-    def superpowers(self):
-        return [
-            "⚡ Building real-time scalable AI solutions",
-            "🔧 Automating workflows with latest AI tools",
-            "🚀 From prototype to production — FAST",
-            "💡 Turning complex data into smart systems"
-        ]
-    
-    def currently_obsessed_with(self):
-        return [
-            "Whisper, VOSK, YOLO, SAM, GDAL, lazpy",
-            "Multimodal AI that actually works in production",
-            "3D Gaussian Splatting & Neural Rendering",
-            "Making machines truly understand the world"
-        ]
-    
-    def mission(self):
-        return "Building intelligent systems that see, hear, and understand — not just demos, but real solutions."
+> *I build AI that sees, hears, and understands — not just demos, but systems that actually work.*
 
-# 🚀 Initialize Balaji
-balaji = BalajiK()
-print(balaji.mission())
-# Output: Building intelligent systems that see, hear, and understand — not just demos, but real solutions.
-```
+Hey, I'm **Balaji** — an AI/ML engineer from India who's obsessed with making machines *actually* understand the world. I started with speech models and quickly fell into the rabbit hole of computer vision, 3D reconstruction, and everything in between.
+
+I've worked on everything from building **real-time speech recognition** with Whisper & VOSK, to training **YOLO models** for object detection, to processing **LiDAR point clouds** for geospatial analysis. If it involves pixels, waveforms, or point clouds — I'm probably building something with it.
+
+What excites me most? **Multimodal AI** — systems that don't just process one type of data, but combine vision, audio, and 3D understanding to solve real problems. That's where the magic happens.
+
+I don't just research — I **build real, scalable solutions**. From prototyping to production, I ship AI systems that solve actual problems. I'm also a big believer in **working smart** — I leverage the latest AI tools and automation to build faster, iterate quicker, and focus on what matters. Why do manually what AI can handle?
+
+When I'm not training models, you'll find me exploring **satellite imagery with SAM**, fine-tuning **LLMs for domain-specific tasks**, or experimenting with **3D Gaussian Splatting**. I believe the best AI engineers aren't just good at math — they're curious builders who never stop asking *"what if?"*
+
+---
+
+| | |
+|:---|:---|
+| 📍 **Based in** | India 🇮🇳 |
+| 📫 **Email** | [balaji2004kamal@gmail.com](mailto:balaji2004kamal@gmail.com) |
+| 🔗 **LinkedIn** | [linkedin.com/in/balaji04](https://linkedin.com/in/balaji04/) |
+| 💼 **GitHub** | [github.com/Davidbala2004](https://github.com/Davidbala2004) |
 
 ---
 
