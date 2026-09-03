@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hey there 👋, I'm <a href="https://github.com/Davidbala2004">Balaji K</a></h1>
+<h1 align="center">Hey there 👋, I'm <a href="https://github.com/balaji-ml-eng">Balaji K</a></h1>
 
 ### 🚀 Machine Learning Engineer • Multimodal AI Developer • Speech & Vision Specialist
 
@@ -27,7 +27,7 @@
 
 <!-- Visitor Counter + Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Davidbala2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=balaji-ml-eng&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge" alt="Open to Work"/>
   &nbsp;
@@ -59,7 +59,7 @@ When I'm not training models, you'll find me exploring **satellite imagery with 
 | 📍 **Based in** | India 🇮🇳 |
 | 📫 **Email** | [balaji2004kamal@gmail.com](mailto:balaji2004kamal@gmail.com) |
 | 🔗 **LinkedIn** | [linkedin.com/in/balaji04](https://linkedin.com/in/balaji04/) |
-| 💼 **GitHub** | [github.com/Davidbala2004](https://github.com/Davidbala2004) |
+| 💼 **GitHub** | [github.com/balaji-ml-eng](https://github.com/balaji-ml-eng) |
 
 ---
 
@@ -192,12 +192,12 @@ When I'm not training models, you'll find me exploring **satellite imagery with 
 
 <div align="center">
 
-[![SLP](https://img.shields.io/badge/SLP-Speech%20Language%20Processing-1e88e5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Davidbala2004/SLP)
-[![text2speech](https://img.shields.io/badge/text2speech-TTS%20Synthesis-e91e63?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Davidbala2004/text2speech)
-[![Pronunciation](https://img.shields.io/badge/Pronunciation%20Project-AI%20Assessment-ff9800?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Davidbala2004/Pronunciation_project)
-[![Healthcare Bot](https://img.shields.io/badge/Aihealthcare--Bot-NLP%20Healthcare-4caf50?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Davidbala2004/Aihealthcare-Bot)
-[![Forex Predictor](https://img.shields.io/badge/Forex--Predictor-ML%20Prediction-9c27b0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Davidbala2004/Forex-Predictor)
-[![STT/TTS](https://img.shields.io/badge/Final--device--based--STT__TTS-Speech%20Recognition-00bcd4?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Davidbala2004/Final-device-based-STT_TTS)
+[![SLP](https://img.shields.io/badge/SLP-Speech%20Language%20Processing-1e88e5?style=for-the-badge&logo=python&logoColor=white)](https://github.com/balaji-ml-eng/SLP)
+[![text2speech](https://img.shields.io/badge/text2speech-TTS%20Synthesis-e91e63?style=for-the-badge&logo=python&logoColor=white)](https://github.com/balaji-ml-eng/text2speech)
+[![Pronunciation](https://img.shields.io/badge/Pronunciation%20Project-AI%20Assessment-ff9800?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/balaji-ml-eng/Pronunciation_project)
+[![Healthcare Bot](https://img.shields.io/badge/Aihealthcare--Bot-NLP%20Healthcare-4caf50?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/balaji-ml-eng/Aihealthcare-Bot)
+[![Forex Predictor](https://img.shields.io/badge/Forex--Predictor-ML%20Prediction-9c27b0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/balaji-ml-eng/Forex-Predictor)
+[![STT/TTS](https://img.shields.io/badge/Final--device--based--STT__TTS-Speech%20Recognition-00bcd4?style=for-the-badge&logo=python&logoColor=white)](https://github.com/balaji-ml-eng/Final-device-based-STT_TTS)
 
 </div>
 
@@ -228,17 +228,17 @@ When I'm not training models, you'll find me exploring **satellite imagery with 
 
 <div align="center">
 
-<a href="https://github.com/Davidbala2004">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidbala2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/balaji-ml-eng">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=balaji-ml-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/Davidbala2004?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Stars](https://img.shields.io/github/stars/balaji-ml-eng?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Repos](https://img.shields.io/badge/Repos-20+-0366d6?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Followers](https://img.shields.io/github/followers/Davidbala2004?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Followers](https://img.shields.io/github/followers/balaji-ml-eng?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -317,7 +317,7 @@ When I'm not training models, you'll find me exploring **satellite imagery with 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji04/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balaji2004kamal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davidbala2004)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balaji-ml-eng)
 
 </div>
 
