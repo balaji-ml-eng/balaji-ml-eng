@@ -117,24 +117,29 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davidbala2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidbala2004&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/Davidbala2004">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidbala2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidbala2004&theme=tokyonight&hide_border=true" width="70%" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Davidbala2004&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" />
+![GitHub Stars](https://img.shields.io/github/stars/Davidbala2004?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Repos](https://img.shields.io/github/repos/Davidbala2004?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Followers](https://img.shields.io/github/followers/Davidbala2004?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
