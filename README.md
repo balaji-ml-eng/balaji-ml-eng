@@ -1,5 +1,23 @@
 <div align="center">
 
+<h1 align="center">Hey there 👋, I'm <a href="https://github.com/Davidbala2004">Balaji K</a></h1>
+
+### 🚀 Machine Learning Engineer • Multimodal AI Developer • Speech & Vision Specialist
+
+> *I don't just train models — I build systems that see, hear, and understand the real world.*
+
+---
+
+<div align="center">
+
+#### 💡 What drives me
+
+> I started with a simple question: *"Can a machine hear and understand like a human?"* That curiosity led me from speech recognition to building full-stack AI systems that work across images, video, audio, and 3D data. Every project I build tries to bridge the gap between raw data and real intelligence.
+
+</div>
+
+---
+
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Multimodal+Systems;Building+Intelligent+Vision+%26+Audio+Models;Specializing+in+Image%2C+Video+%26+3D+AI;Speech+Recognition+%26+Synthesis+Expert" alt="Typing SVG" />
@@ -22,14 +40,85 @@
 
 ## 🧠 About Me
 
-> *Building intelligent systems that see, hear, and understand the world — one model at a time.*
+> *I build AI that sees, hears, and understands — not just demos, but systems that actually work.*
 
-- 🔭 **Currently working on:** Multimodal AI systems combining vision, audio, and 3D understanding
-- 🌱 **Exploring:** Advanced transformer architectures for real-time multimodal inference
-- 🎯 **Specialization:** Computer Vision · Speech Processing · LiDAR & Point Cloud · 3D Reconstruction · Geospatial AI · Generative AI
-- 💬 **Ask me about:** YOLO, OpenCV, Whisper, VOSK, LiDAR, GDAL, SAM, Point Cloud Processing, Satellite Imagery, 3D Object Detection
-- 📍 **Based in:** India 🇮🇳
-- 📫 **Reach me at:** [balaji2004kamal@gmail.com](mailto:balaji2004kamal@gmail.com)
+Hey, I'm **Balaji** — an AI/ML engineer from India who's obsessed with making machines *actually* understand the world. I started with speech models and quickly fell into the rabbit hole of computer vision, 3D reconstruction, and everything in between.
+
+I've worked on everything from building **real-time speech recognition** with Whisper & VOSK, to training **YOLO models** for object detection, to processing **LiDAR point clouds** for geospatial analysis. If it involves pixels, waveforms, or point clouds — I'm probably building something with it.
+
+What excites me most? **Multimodal AI** — systems that don't just process one type of data, but combine vision, audio, and 3D understanding to solve real problems. That's where the magic happens.
+
+When I'm not training models, you'll find me exploring **satellite imagery with SAM**, fine-tuning **LLMs for domain-specific tasks**, or experimenting with **3D Gaussian Splatting**. I believe the best AI engineers aren't just good at math — they're curious builders who never stop asking *"what if?"*
+
+📍 **Based in:** India 🇮🇳
+📫 **Reach me at:** [balaji2004kamal@gmail.com](mailto:balaji2004kamal@gmail.com)
+🔗 **Let's connect:** [LinkedIn](https://linkedin.com/in/balaji04/)
+
+---
+
+## ⚡ Developer Attributes
+
+<table>
+<tr>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/🧠_AI_%2F_ML-Expert-76b900?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+
+</td>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/👁️_Computer_Vision-Advanced-00bcd4?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+
+</td>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/🗣️_Speech_AI-Advanced-e91e63?style=for-the-badge&logo=microphone&logoColor=white" alt="Speech AI"/>
+
+</td>
+<td align="center" width="180">
+
+<img src="https://img.shields.io/badge/🌍_3D_%26_LiDAR-Intermediate-9c27b0?style=for-the-badge" alt="3D LiDAR"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/🐍_Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/📦_Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/☁️_AWS-Intermediate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/🤖_LLMs_%26_RAG-Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```
+🧠 AI/ML          ████████████████████  95%
+👁️ Computer Vision ██████████████████░░  90%
+🗣️ Speech AI      ██████████████████░░  90%
+🐍 Python          ████████████████████  95%
+📦 Docker          ██████████████░░░░░░  70%
+☁️ AWS             ██████████████░░░░░░  70%
+🌍 3D & LiDAR      ████████████████░░░░  80%
+🤖 LLMs & RAG      ████████████░░░░░░░░  60%
+```
+
+</div>
 
 ---
 
@@ -117,7 +206,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Summary
+
+<div align="center">
+
+| 📊 | 📦 | 📅 | 🏢 |
+|:---:|:---:|:---:|:---:|
+| **57+** Contributions | **20** Public Repos | Joined **2023** | India 🇮🇳 |
+
+</div>
 
 <div align="center">
 
@@ -129,19 +226,21 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-<div align="center">
-
 ![GitHub Stars](https://img.shields.io/github/stars/Davidbala2004?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Repos](https://img.shields.io/github/repos/Davidbala2004?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Repos](https://img.shields.io/badge/Repos-20+-0366d6?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Followers](https://img.shields.io/github/followers/Davidbala2004?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 **Agentic AI Systems** — autonomous agents and tool-use architectures
+- 🧠 **Advanced RAG Pipelines** — retrieval-augmented generation with vector databases
+- 🎥 **Video Understanding Models** — temporal analysis and action recognition
+- 🗣️ **Multilingual Speech Models** — cross-language ASR and TTS systems
+- 🌍 **3D Gaussian Splatting** — real-time neural rendering from point clouds
 
 ---
 
