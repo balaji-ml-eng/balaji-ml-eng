@@ -311,7 +311,7 @@ When I'm not training models, you'll find me exploring **satellite imagery with 
 
 ---
 
-## 🤝 Connect With M
+## 🤝 Connect With Me
 
 <div align="center">
 
